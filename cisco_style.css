@@ -21,7 +21,6 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table{
     font-size: 14px !important;
     line-height: 1.43 !important;
     letter-spacing: 1px !important;
-    height: 800px !important;
 }
 /* SH widget content tile Styling */
 [data-wfx-id="widget-content"]{
