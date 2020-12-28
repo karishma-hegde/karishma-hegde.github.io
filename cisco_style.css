@@ -34,6 +34,6 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table{
 #search{
     color: #000000 !important; 
 }
-body > table > tbody > tr:nth-child(4) > td{
+#_widget_launcher_wfx_ > iframe{
     height: 800px !important;
 }
