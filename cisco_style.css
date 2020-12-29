@@ -7,7 +7,7 @@ body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
 /* SH search bar tile styling */
 [data-wfx-id="self-help-search-panel"]{
     width : 456px !important;
-    height: 38px !important;
+    height: 36px !important;
     padding: 1px 18px 11.5px;
     border-radius: 1px !important;
 }
