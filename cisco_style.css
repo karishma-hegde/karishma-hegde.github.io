@@ -1,6 +1,6 @@
 /* SH search bar tile styling */
 body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
-    padding:0px;
+    padding:0px 6px 6px 6px;
     background-color: #00a0d1 !important;  
 }
 /* SH search bar tile styling */
