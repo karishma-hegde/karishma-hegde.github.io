@@ -3,17 +3,20 @@ body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
     padding:0px 6px 6px 6px;
     background-color: #00a0d1 !important;  
 }
+
 /* SH search bar tile styling */
-body > table[role="presentation"] > tbody > tr:nth-child(2) > td > div > div{
+[data-wfx-id="self-help-search-panel"]{
     width : 456px !important;
-    height: 54px !important;
-    padding: 11.5px 18px;
+    height: 38px !important;
+    padding: 1px 18px 11.5px;
     border-radius: 1px !important;
 }
+
 /* search bar bottom line color */
-body > table > tbody > tr:nth-child(2) > td > div > div > table{
+[data-wfx-id="self-help-search-grid"]{
     border-color: #000000 !important;
 }
+
 /* SH title styling */
 [data-wfx-id="self-help-title"]{
     text-align:left !important;
@@ -22,14 +25,17 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table{
     line-height: 1.43 !important;
     letter-spacing: 1px !important;
 }
+
 /* SH widget content tile Styling */
 [data-wfx-id="widget-content"]{
     border : none !important;
 }
+
 /* SH widget content tile Styling */
 [data-wfx-id="content-title"]{
    color: #000000 !important; 
 }
+
 /* SH search bar tile styling */
 #search{
     color: #000000 !important; 
