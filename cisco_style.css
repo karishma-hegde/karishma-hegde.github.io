@@ -1,7 +1,3 @@
-body > table{
-    height: 1000px !important;
-}
-
 /* SH search bar tile styling */
 body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
     padding:0px 6px 6px 6px;
