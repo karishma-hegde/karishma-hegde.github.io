@@ -6,7 +6,7 @@ body > table[role="presentation"] > tbody > tr:nth-child(2) > td{
 /* SH search bar tile styling */
 body > table[role="presentation"] > tbody > tr:nth-child(2) > td > div > div{
     width : 456px !important;
-    height: 24px !important;
+    height: 54px !important;
     padding: 11.5px 18px;
     border-radius: 1px !important;
 }
@@ -33,7 +33,4 @@ body > table > tbody > tr:nth-child(2) > td > div > div > table{
 /* SH search bar tile styling */
 #search{
     color: #000000 !important; 
-}
-#_widget_launcher_wfx_ > iframe{
-    height: 1000px !important;
 }
